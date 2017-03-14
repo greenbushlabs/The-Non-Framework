@@ -1,8 +1,8 @@
-# The-Non-Framework #
 Directory Structure & Naming Convention:
-[images] => All images go here
-[admin] => Administrative functions
-[static] => All static files go here
+/images/ => All images go here
+/admin/ => Administrative functions
+/static/ => All static files go her
+
 static.main.php => main content start page
 db.connect.php => All database connection variables and functions
 index.php => This is the main template
@@ -19,7 +19,7 @@ Example:
 			// @  THIS IS WHERE THE MAIN DATA IS GRABBED @  //
 			// @@@@@@@@@@@@@@@@@@@@@@@@@@ //
 
-		And
+
 			// @@@@@@@@@@@@@@@@@@@@@@@@@@ //
 			// @ LOOP THROUGH THE ARRAY HERE @@@@@@  //
 			// @@@@@@@@@@@@@@@@@@@@@@@@@@ //
