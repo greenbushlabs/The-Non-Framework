@@ -1,4 +1,4 @@
-# The-Non-Framework
+# The-Non-Framework #
 Directory Structure & Naming Convention:
 [images] => All images go here
 [admin] => Administrative functions
