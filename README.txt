@@ -24,3 +24,17 @@ Example:
 			// @ LOOP THROUGH THE ARRAY HERE @@@@@@  //
 			// @@@@@@@@@@@@@@@@@@@@@@@@@@ //
 
+
+Additional Notes:
+To allow PHP “register globals” :
+Create php.ini in root directory
+Add line register_globals=1 and save
+Or
+Create .htaccess file in root directory
+Add line php_flag register_globals 1 and save
+
+
+MySQL and SQLAdmin Interfaces:
+MySQL: https://www.adminer.org 
+SQLite: https://www.phpliteadmin.org 
+
